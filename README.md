@@ -1,4 +1,7 @@
 # GoChat 💬
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6443afc182b34ad99d4680b51c5f3ead)](https://app.codacy.com/gh/matf-pp/2020_GoChat?utm_source=github.com&utm_medium=referral&utm_content=matf-pp/2020_GoChat&utm_campaign=Badge_Grade_Dashboard)
+
 ### 📝 info:
 Implementacija chat soba u programskom jeziku Go
 
